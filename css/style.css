@@ -1,0 +1,15 @@
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-width: 10px;
+  border-color: white;
+border-spacing: 5px;
+width: 10%;
+
+}
+h1{
+  color: blue;
+}
+h3{
+ color: blue;
+}
